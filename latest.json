@@ -1,8 +1,8 @@
 
 {
-  "version": "1.0.0",
-  "download_url": "",
-  "sha256": "",
-  "release_notes": "Versão inicial do Dz8 RPA 1Doc."
+  "version": "1.0.1",
+  "download_url": "https://github.com/Dz8-A/RPA1DOC-Updates/releases/download/v1.0.1/RPA.exe",
+  "sha256": "3F8098F3CE26035E9689C76056AF325ABC30F516C32132FFB716C7DE3A875C45",
+  "release_notes": "Correção da automação do 1Doc e inclusão do sistema de atualização."
 }
   
